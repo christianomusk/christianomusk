@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christianomusk
 - 👀 I’m interested in Software Development and also business
-- 🌱 I’m currently learning GitHub Now
+- 🌱 I’m currently learning for job 
 - 💞️ I’m currently are looking to collaborate on anyone
 - 📫 (None)
 
